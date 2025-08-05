@@ -2,8 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=gradient&text=Hi%20there!👾&reversal=false&textBg=false&fontAlignY=40"/>
 </p>
 
-I'm hojanyoung, currently pursuing a Master's degree in Computer Science at Fudan University in China. My research direction is binary translation. I am currently focused on the Google Summer of Code 2024 project [Overlay Handling with fuse-overlayfs](https://summerofcode.withgoogle.com/programs/2024/projects/UzhlnEel).
-
+I'm hojanyoung, currently pursuing a Master's degree in Computer Science at Fudan University in China. My research direction is binary translation. 
 <div align="center">
 
 ## Tech Stack:
